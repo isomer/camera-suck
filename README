@@ -1,0 +1,3 @@
+I wanted a simple program that would download all the files, and delete them
+off a camera.  You would think this would be a simple request wouldn't you?
+But the gphoto2 command line app made it pretty difficult.  So I wrote this.
